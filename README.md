@@ -23,8 +23,7 @@ Where:
 
 ## Documentation
 
-Complete 175-page technical documentation coming soon.
-
+Complete 175-page technical documentation 
 ## Author
 
 **Bernard Bérard** (Capitaine 13urN)  
@@ -36,9 +35,5 @@ Saint-Hippolyte, Québec, Canada
 ## License
 
 MIT License
-```
 
----
-
-## ✅ ÉTAPES POUR CRÉER TON REPO
 
